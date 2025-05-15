@@ -33,7 +33,7 @@ Hasil penelitian menunjukkan bahwa model RNN-LSTM mampu memprediksi pasang surut
 - Data bersumber dari BMKG Stasiun Meteorologi Maritim Tanjung Perak Surabaya.
 - Periode data: Januari 2022 - April 2024.
 - Resolusi data: per 30 menit.
-- Format data: `.csv`.
+- Format data: `.xlsx`.
 - **Catatan:** Penggunaan data untuk kepentingan edukasi dan riset.
 
 ---
