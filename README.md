@@ -48,11 +48,7 @@ Hasil penelitian menunjukkan bahwa model RNN-LSTM mampu memprediksi pasang surut
   - Metrics: MSE, MAE
 - Untuk menjalankan:
   1. Pastikan environment Python (versi >=3.8).
-  2. Install library yang dibutuhkan:
-     ```bash
-     pip install -r requirements.txt
-     ```
-  3. Jalankan `model_lstm.ipynb` di Google Colab / Jupyter Notebook.
+  2. Jalankan `model_lstm.ipynb` di Google Colab / Jupyter Notebook.
 
 ---
 
