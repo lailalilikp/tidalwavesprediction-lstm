@@ -7,12 +7,12 @@ Penelitian ini diharapkan dapat menjadi referensi bagi akademisi, praktisi, dan 
 
 ---
 prediksi-pasang-surut-rnn-lstm/
-├── README.md
-├── dataset/
-│   └── per_30_mins_data_tidal_wave_surabaya_for_training.xlsx
-├── code/
-│   └── model_lstm.ipynb
-└── skripsi_fmipa_laila_lilik_puspitasari.pdf
+- README.md
+- dataset/
+  - per_30_mins_data_tidal_wave_surabaya_for_training.xlsx
+- code/
+  - model_lstm.ipynb
+- skripsi_fmipa_laila_lilik_puspitasari.pdf
 
 
 ---
